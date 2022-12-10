@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group  android:checkableBehavior="single">
+        <item
+            android:title="Home"
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"/>
+    </group>
+    <group  android:checkableBehavior="single">
+        <item
+            android:title="Plat Pricipal"
+            android:id="@+id/plat"
+            android:icon="@drawable/ic_baseline_restaurant_24">
+
+        </item>
+    </group>
+    <group  android:checkableBehavior="single">
+        <item
+            android:title="Boissons">
+            <menu>
+                <item
+                    android:title="Smoothies"
+                    android:id="@+id/smoothies"
+                    android:icon="@drawable/ic_baseline_local_bar_24"/>
+                <item
+                    android:title="Mojitos"
+                    android:id="@+id/mojitos"
+                    android:icon="@drawable/ic_baseline_local_bar_24"/>
+                <item
+                    android:title="Chaudes"
+                    android:id="@+id/chaudes"
+                    android:icon="@drawable/ic_baseline_local_cafe_24"/>
+
+
+            </menu>
+        </item>
+    </group>
+    <group  android:checkableBehavior="single">
+        <item
+            android:title="Dessert">
+            <menu>
+                <item
+                    android:title="Crepes"
+                    android:id="@+id/crepes"
+                    android:icon="@drawable/ic_baseline_restaurant_menu_24"/>
+                <item
+                    android:title="Cakes"
+                    android:id="@+id/cakes"
+                    android:icon="@drawable/ic_baseline_cake_24"/>
+
+            </menu>
+        </item>
+    </group>
+    <group  android:checkableBehavior="single">
+        <item
+            android:title="Profile">
+            <menu>
+                <item
+                    android:title="Logout"
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_baseline_logout_24"/>
+
+            </menu>
+        </item>
+    </group>
+</menu>
