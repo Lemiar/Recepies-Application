@@ -1,4 +1,15 @@
 # Recepies-Application
+
+
+
+part1:
+https://github.com/Lemiar/Recepies-Application/assets/112787562/08792ed8-4920-4b5f-a19c-81f1aeb45796
+
+part2 :
+
+
+
+
 ![14 (2)](https://user-images.githubusercontent.com/112787562/206877795-a195484c-559e-4729-89df-3cebb1b3da6c.png)
 ![78 (2)](https://user-images.githubusercontent.com/112787562/206877800-fc21a5bc-9bef-4f0b-bd03-ef685fb41f0b.png)
 ![15 (2)](https://user-images.githubusercontent.com/112787562/206877807-bfdda3e3-f67b-4adf-a59d-9ea9311a1246.png)
